@@ -6,6 +6,7 @@ IF THIS TEMPLATE/PLUGIN IS USED PLEASE MAKE SURE TO CREDIT ME AS I PUT EFFORT IN
 
 This plugin is has:
 Horror Events
+
 Subtitles
 
 Horror Events:
